@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Haseeb-creator
-- 👀 I’m interested in full stack Developer
-- 🌱 I’m currently learning javascript,react
+- 👀 I’m interested in web automaion
+- 🌱 I’m currently learning javascript
 - 📫 How to reach me https://www.linkedin.com/feed/
 
 <!---
