@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @Haseeb-creator
-- 👀 I’m interested in web automaion
-- 🌱 I’m currently learning javascript
-- 📫 How to reach me https://www.linkedin.com/feed/
+👋 Hi there! I'm a MERN stack developer with a passion for building awesome web applications.
 
-<!---
-Haseeb-creator/Haseeb-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I love working with modern web technologies and I'm always looking for ways to improve my skills.
+
+🔧 My skills include:
+
+React.js
+Node.js
+Express.js
+MongoDB
+HTML/CSS
+JavaScript
+💼 Currently, I work as a full-stack developer at XYZ company, where I help build and maintain web applications for clients.
+
+🌱 In my free time, I enjoy contributing to open-source projects and learning new technologies.
+
+📫 You can reach me at my linkedIn Profile  https://www.linkedin.com/feed/ 
+
+👀 Check out my GitHub repositories to see some of my past projects and contributions.
+
+Thanks for stopping by!
+
