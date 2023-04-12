@@ -10,7 +10,7 @@ Express.js
 MongoDB
 HTML/CSS
 JavaScript
-💼 Currently, I work as a full-stack developer at XYZ company, where I help build and maintain web applications for clients.
+💼 Currently, I work as a full-stack developer, where I help build and maintain web applications for clients.
 
 🌱 In my free time, I enjoy contributing to open-source projects and learning new technologies.
 
